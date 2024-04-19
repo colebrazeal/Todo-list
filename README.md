@@ -9,4 +9,11 @@ This template should help get you started developing with Vue 3 in Vite. The tem
 
 # Project Functionality 
 
-A simple todo-list creator, allows you to add your name along with todo lists, either business or personal# Todo-list
+A simple todo-list creator, allows you to add your name along with todo lists, either business or personal
+
+To set up: 
+
+* clone repo to your local drive
+* Open cloned repo in your coding software
+* Open terminal and type 'npm run dev'
+* Enjoy your todo lists ;)
